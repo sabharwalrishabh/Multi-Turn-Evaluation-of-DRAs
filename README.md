@@ -1,6 +1,6 @@
 # Multi-Turn Evaluation of Deep Research Agents [(Paper)](https://arxiv.org/abs/2606.09748)
 
-Forked from https://github.com/langchain-ai/open_deep_research
+We used [LangChain Open Deep Research](https://github.com/langchain-ai/open_deep_research) as the agent scaffold for all our experiments.
 
 ---
 ## ablations/
